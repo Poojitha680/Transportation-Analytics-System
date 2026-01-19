@@ -1,0 +1,6 @@
+vehicle_id,vehicle_type,manufacturer,model,year,avg_mileage_kmpl
+V001,Truck,Tata,Ace,2019,14
+V002,Truck,Ashok Leyland,Dost,2020,13
+V003,Van,Mahindra,Bolero Pickup,2018,15
+V004,Truck,Eicher,Pro 2049,2021,12
+V005,Van,Tata,Intra V30,2022,16

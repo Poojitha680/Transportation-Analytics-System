@@ -1,0 +1,6 @@
+trip_id,vehicle_id,driver_id,trip_date,route_type,distance_km,traffic_level,route_difficulty
+T001,V001,D001,2025-12-01,City,120,High,4
+T002,V002,D002,2025-12-01,Highway,300,Medium,2
+T003,V003,D003,2025-12-02,Rural,180,Low,3
+T004,V004,D004,2025-12-02,City,90,High,4
+T005,V005,D005,2025-12-03,Highway,250,Medium,2

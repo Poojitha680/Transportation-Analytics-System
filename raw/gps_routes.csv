@@ -1,0 +1,6 @@
+trip_id,avg_speed_kmph,delivery_delay_minutes
+T001,35,25
+T002,65,5
+T003,45,10
+T004,30,30
+T005,70,0

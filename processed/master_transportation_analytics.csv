@@ -1,0 +1,6 @@
+trip_id,trip_date,vehicle_id,driver_id,driver_name,route_type,distance_km,fuel_consumed_liters,fuel_efficiency_kmpl,traffic_level,delivery_delay_minutes,maintenance_cost,fuel_cost,total_trip_cost,cost_per_km,driver_performance_score
+T001,2025-12-01,V001,D001,Ramesh Kumar,City,120,10,12.0,High,25,4500,980,5480,45.666666666666664,21.5
+T002,2025-12-01,V002,D002,Suresh Patel,Highway,300,22,13.636363636363637,Medium,5,3000,2134,5134,17.113333333333333,26.772727272727273
+T003,2025-12-02,V003,D003,Anil Sharma,Rural,180,12,15.0,Low,10,2500,1152,3652,20.288888888888888,29.0
+T004,2025-12-02,V004,D004,Vikram Singh,City,90,9,10.0,High,30,5200,891,6091,67.67777777777778,17.0
+T005,2025-12-03,V005,D005,Manoj Das,Highway,250,15,16.666666666666668,Medium,0,2000,1455,3455,13.82,33.333333333333336
